@@ -1,0 +1,63 @@
+{
+  "Home": "Home",
+  "Contact": "Contact",
+  "About": "About",
+  "Products": "Products",
+  "Servicies": "Servicies",
+  "ContactUs": "Contact Us",
+  "MessageSuccess": "Message sent successfully!",
+  "MessageFailed": "Failed to send message. Please try again.",
+  "SendMessage": "Send Message",
+  "Sending": "Sending ...",
+  "JoinNewLetter": "Join our newsletter to get top news before anyone else.",
+  "TakeInitiative": "Take initiative",
+  "Subscribe": "Subscribe",
+  "Slogan": "Home",
+  "BrowseProducts": "Browse Products",
+  "HeroParagraph": "General Machines: Powering Efficiency, Revolutionizing Industry.",
+  "YourBestEmail": "Your Best Email",
+  "EmailCopied": "Email Copied",
+  "Email": "Email *",
+  "Subject": "Subject *",
+  "ProductsOnDemand": "Custom manufacturing",
+  "LeaveAComment": "Leave a Comment *",
+  "FirstName": "First name *",
+  "LastName": "Last name *",
+  "PhoneNumber": "Phone Number *",
+  "FirstSelectACountry": "First select a country",
+  "Country": "Country *",
+  "Algeria": "Algeria",
+  "Lybia": "Lybia",
+  "Tunisia": "Tunisia",
+  "Company": "Company",
+  "SelectACountry": "Select a country",
+  "About-Us": {
+    "About-Us": "About Us",
+    "About-Us-intro": "General Machines is a leading provider of high-quality stainless steel products and factory utilities for a wide range of industrial applications. We are committed to delivering exceptional customer service, superior craftsmanship, and innovative solutions to meet your specific needs.",
+    "Expertise": {
+      "Expertise": "Our Expertise:",
+      "Expertise-1h": "Stainless Steel Fabrication:",
+      "Expertise-1p": "We specialize in the design and fabrication of custom stainless steel ladders, tanks, and other equipment. Our team of experienced professionals utilizes advanced techniques and equipment to ensure the durability, hygiene, and corrosion resistance of our products.",
+      "Expertise-2h": "Motorized Tanks and Drains:",
+      "Expertise-2p": "We offer a variety of motorized tanks and drains specifically designed for industrial applications. These products are built to withstand demanding environments and provide efficient and reliable operation.",
+      "Expertise-3h": "Factory Chain and Moving Belts:",
+      "Expertise-3p": "We supply and install high-quality factory chain and moving belts essential for various production lines. Our products are known for their strength, reliability, and smooth operation, ensuring efficient material handling within your facility.",
+      "Expertise-4h": "Factory Utilities Installation:",
+      "Expertise-4p": "Our skilled technicians provide comprehensive plumbing installation services for factories and industrial facilities. We ensure proper installation and functionality of all plumbing systems, adhering to strict safety and quality standards."
+    },
+    "Commitment": {
+      "Commitment": "Our Commitment:",
+      "Commitment-h1": "At General Machines, we are dedicated to providing our customers with:",
+      "Commitment-1h": "Unmatched Quality:",
+      "Commitment-1p": "We use only the finest materials and employ the latest fabrication techniques to guarantee the longevity and functionality of our products.",
+      "Commitment-2h": "Exceptional Customer Service:",
+      "Commitment-2p": "We understand the unique needs of each client and work closely with them to develop customized solutions that exceed their expectations.",
+      "Commitment-3h": "Competitive Pricing:",
+      "Commitment-3p": "We offer competitive pricing on all our products and services, ensuring you receive exceptional value for your investment. Reliable Service: Our team is committed to providing timely and efficient service throughout the entire project lifecycle."
+    },
+    "Contact-Us": {
+      "Contact-Us": "Contact Us Today:",
+      "Contact-P": "We invite you to contact General Machines today to discuss your specific requirements and learn how our products and services can benefit your business. We are confident that we can provide the perfect solution to meet your needs and exceed your expectations."
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Home": "Accueil",
+  "Contact": "Contact",
+  "About": "À propos",
+  "Products": "Produits",
+  "Servicies": "Services",
+  "ContactUs": "Nous contacter",
+  "MessageSuccess": "Message envoyé avec succès !",
+  "MessageFailed": "Échec de l'envoi du message. Veuillez réessayer.",
+  "SendMessage": "Envoyer le message",
+  "Sending": "Envoi en cours...",
+  "JoinNewLetter": "Abonnez-vous à notre newsletter pour obtenir les dernières nouvelles avant tout le monde.",
+  "Subscribe": "S'abonner",
+  "Slogan": "Accueil",
+  "TakeInitiative": "Prendre l'initiative",
+  "BrowseProducts": "Parcourir les produits",
+  "HeroParagraph": "Machines générales : Optimisation de l'efficacité, Révolution de l'industrie.",
+  "YourBestEmail": "Votre meilleur email",
+  "EmailCopied": "Email copié",
+  "Email": "Email *",
+  "Subject": "Sujet *",
+  "LeaveAComment": "Laisser un commentaire *",
+  "ProductsOnDemand": "fabrication sur mesure",
+  "FirstName": "Prénom *",
+  "LastName": "Nom de famille *",
+  "PhoneNumber": "Numéro de téléphone *",
+  "FirstSelectACountry": "Sélectionnez d'abord un pays",
+  "Country": "Pays *",
+  "Algeria": "Algérie",
+  "Lybia": "Libye",
+  "Tunisia": "Tunisie",
+  "Company": "Entreprise",
+  "SelectACountry": "Sélectionnez un pays",
+  "About-Us": {
+    "About-Us": "À propos de nous",
+    "About-Us-intro": "General Machines est un fournisseur leader de produits en acier inoxydable de haute qualité et d'utilitaires d'usine pour une large gamme d'applications industrielles. Nous nous engageons à fournir un service client exceptionnel, un artisanat supérieur et des solutions innovantes pour répondre à vos besoins spécifiques.",
+    "Expertise": {
+      "Expertise": "Notre expertise :",
+      "Expertise-1h": "Fabrication en acier inoxydable :",
+      "Expertise-1p": "Nous sommes spécialisés dans la conception et la fabrication d'échelles, de réservoirs et d'autres équipements en acier inoxydable sur mesure. Notre équipe de professionnels expérimentés utilise des techniques et des équipements avancés pour garantir la durabilité, l'hygiène et la résistance à la corrosion de nos produits.",
+      "Expertise-2h": "Réservoirs et évacuations motorisés :",
+      "Expertise-2p": "Nous proposons une variété de réservoirs et d'évacuations motorisés spécialement conçus pour les applications industrielles. Ces produits sont conçus pour résister aux environnements exigeants et offrir un fonctionnement efficace et fiable.",
+      "Expertise-3h": "Chaînes d'usine et courroies mobiles :",
+      "Expertise-3p": "Nous fournissons et installons des chaînes d'usine et des courroies mobiles de haute qualité, essentielles pour diverses lignes de production. Nos produits sont réputés pour leur résistance, leur fiabilité et leur fonctionnement fluide, garantissant une manipulation efficace des matériaux dans votre installation.",
+      "Expertise-4h": "Installation d'utilitaires d'usine :",
+      "Expertise-4p": "Nos techniciens qualifiés fournissent des services d'installation de plomberie complets pour les usines et les installations industrielles. Nous veillons à l'installation et à la fonctionnalité correctes de tous les systèmes de plomberie, en respectant des normes de sécurité et de qualité strictes."
+    },
+    "Commitment": {
+      "Commitment": "Notre engagement :",
+      "Commitment-h1": "Chez General Machines, nous nous engageons à fournir à nos clients :",
+      "Commitment-1h": "Qualité inégalée :",
+      "Commitment-1p": "Nous n'utilisons que les meilleurs matériaux et employons les dernières techniques de fabrication pour garantir la longévité et la fonctionnalité de nos produits.",
+      "Commitment-2h": "Service client exceptionnel :",
+      "Commitment-2p": "Nous comprenons les besoins uniques de chaque client et travaillons en étroite collaboration avec eux pour développer des solutions personnalisées qui dépassent leurs attentes.",
+      "Commitment-3h": "Tarification compétitive :",
+      "Commitment-3p": "Nous proposons des tarifs compétitifs sur tous nos produits et services, vous garantissant ainsi une valeur exceptionnelle pour votre investissement. Service fiable : Notre équipe s'engage à fournir un service rapide et efficace tout au long du cycle de vie du projet."
+    },
+    "Contact-Us": {
+      "Contact-Us": "Contactez-nous dès aujourd'hui :",
+      "Contact-P": "Nous vous invitons à contacter General Machines dès aujourd'hui pour discuter de vos besoins spécifiques et découvrir comment nos produits et services peuvent bénéficier à votre entreprise. Nous sommes convaincus que nous pouvons fournir la solution parfaite pour répondre à vos besoins et dépasser vos attentes."
+    }
+  }
+}
